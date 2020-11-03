@@ -1,0 +1,32 @@
+form{
+    margin-top:100px;
+
+}
+
+.sub{
+    font-weight:lighter;
+    font-size: small;
+}
+
+form input {
+    text-align:center;
+    width:350px;
+    border: none;
+    padding:10px
+}
+
+form input #email{
+    font-weight: bold;  
+    border:none
+}
+
+.noticias input #email{
+    font-weight:lighter;
+}
+
+form button{
+    background-color: #003a6c;
+    padding:20px;
+    width:350px;
+    
+}
